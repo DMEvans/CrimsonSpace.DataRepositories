@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CrimsonSpace.DataRepositories.Disconnected")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Crimson Space Data Repositories - Disconnected")]
+[assembly: AssemblyDescription("A generic disconnected data repository for use with Entity Framework")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Crawford & Co")]
+[assembly: AssemblyCompany("Crimson Space Media")]
 [assembly: AssemblyProduct("CrimsonSpace.DataRepositories.Disconnected")]
-[assembly: AssemblyCopyright("Copyright © Crawford & Co 2018")]
+[assembly: AssemblyCopyright("Copyright © Crimson Space Media 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

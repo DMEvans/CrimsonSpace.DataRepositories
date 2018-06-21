@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CrimsonSpace Data Repositories")]
-[assembly: AssemblyDescription("A generic data repository library for Entity Framework")]
+[assembly: AssemblyTitle("Crimson Space Data Repository Entities")]
+[assembly: AssemblyDescription("Collection of base entity classes for use with the generic data repositories")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Crimson Space Media")]
-[assembly: AssemblyProduct("CrimsonSpace.DataRepositories")]
-[assembly: AssemblyCopyright("Copyright © Crrimson Space Media 2018")]
+[assembly: AssemblyProduct("CrimsonSpace.DataRepositories.Entities")]
+[assembly: AssemblyCopyright("Copyright © Crimson Space Media 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("77e03875-f017-4d2c-85bf-69f699a7b813")]
+[assembly: Guid("b5af41f4-462d-4544-9c52-41d092010f90")]
 
 // Version information for an assembly consists of the following four values:
 //
