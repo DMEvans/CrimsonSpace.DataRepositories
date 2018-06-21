@@ -1,12 +1,11 @@
-﻿namespace CrimsonSpace.GenericDataRepository.Interfaces
+﻿namespace CrimsonSpace.DataRepositories.Interfaces
 {
-    using CrimsonSpace.GenericDataRepository.Entities;
-    using CrimsonSpace.GenericDataRepository.Models;
+    using CrimsonSpace.DataRepositories.Entities;
+    using CrimsonSpace.DataRepositories.Models;
     using System;
-	using System.Collections.Generic;
+    using System.Collections.Generic;
     using System.Linq.Expressions;
-    using System.Text;
-	
+
     public interface IGenericDataRepository<TEntity, TKey>
         where TEntity : BaseEntity<TKey>
     {

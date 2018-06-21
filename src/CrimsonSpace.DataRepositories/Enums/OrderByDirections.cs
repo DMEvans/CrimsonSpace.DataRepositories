@@ -1,4 +1,4 @@
-﻿namespace CrimsonSpace.GenericDataRepository.Enums
+﻿namespace CrimsonSpace.DataRepositories.Enums
 {
     public enum OrderByDirections
     {

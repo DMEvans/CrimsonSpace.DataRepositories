@@ -1,9 +1,9 @@
-﻿namespace CrimsonSpace.GenericDataRepository.Repositories
+﻿namespace CrimsonSpace.DataRepositories.Disconnected
 {
-    using CrimsonSpace.GenericDataRepository.Entities;
-    using CrimsonSpace.GenericDataRepository.Extensions;
-    using CrimsonSpace.GenericDataRepository.Interfaces;
-    using CrimsonSpace.GenericDataRepository.Models;
+    using CrimsonSpace.DataRepositories.Entities;
+    using CrimsonSpace.DataRepositories.Extensions;
+    using CrimsonSpace.DataRepositories.Interfaces;
+    using CrimsonSpace.DataRepositories.Models;
     using System;
     using System.Collections.Generic;
     using System.Data.Entity;

@@ -1,6 +1,6 @@
-﻿namespace CrimsonSpace.GenericDataRepository.Models
+﻿namespace CrimsonSpace.DataRepositories.Models
 {
-    using CrimsonSpace.GenericDataRepository.Enums;
+    using CrimsonSpace.DataRepositories.Enums;
     using System;
 
     /// <summary>
