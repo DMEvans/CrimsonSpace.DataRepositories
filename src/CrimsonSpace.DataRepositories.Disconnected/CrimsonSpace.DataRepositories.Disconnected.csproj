@@ -56,6 +56,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CrimsonSpace.DataRepositories.Entities\CrimsonSpace.DataRepositories.Entities.csproj">
+      <Project>{b5af41f4-462d-4544-9c52-41d092010f90}</Project>
+      <Name>CrimsonSpace.DataRepositories.Entities</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CrimsonSpace.DataRepositories\CrimsonSpace.DataRepositories.csproj">
       <Project>{77e03875-f017-4d2c-85bf-69f699a7b813}</Project>
       <Name>CrimsonSpace.DataRepositories</Name>
