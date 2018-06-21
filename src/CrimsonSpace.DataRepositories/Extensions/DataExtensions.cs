@@ -1,6 +1,6 @@
-﻿namespace CrimsonSpace.GenericDataRepository.Extensions
+﻿namespace CrimsonSpace.DataRepositories.Extensions
 {
-    using CrimsonSpace.GenericDataRepository.Models;
+    using CrimsonSpace.DataRepositories.Models;
     using System;
     using System.Data.Entity;
     using System.Linq;
